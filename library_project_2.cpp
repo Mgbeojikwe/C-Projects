@@ -15,11 +15,6 @@ N:B : Outputs are printed to the terminal
 
 
 
-//sort the entered books via the coded
-//allow users to borrow books. use the find algorithm. if found give it to ther user and 
-//append the borowwed book to a new container and erase it from the library container
-//allow library staff to add a book
-
 #include <iostream>
 #include <algorithm>
 #include <vector>
